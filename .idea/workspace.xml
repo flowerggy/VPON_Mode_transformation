@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7583be5a-c2c3-4dac-9af4-6ae82dcf7d3c" name="Default Changelist" comment="">
+    <list default="true" id="7583be5a-c2c3-4dac-9af4-6ae82dcf7d3c" name="Default Changelist" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +30,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="28" selection-start-column="28" selection-end-column="28" />
+                <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650889472135</updated>
-      <workItem from="1650889473254" duration="1896000" />
+      <workItem from="1650889473254" duration="2164000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1650889810091</created>
@@ -158,11 +158,18 @@
       <option name="project" value="LOCAL" />
       <updated>1650891206503</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="first commit">
+      <created>1650891397658</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650891397658</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1896000" />
+    <option name="totallyTimeSpent" value="2164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="-8" width="1936" height="1096" extended-state="6" />
@@ -216,7 +223,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="28" selection-start-column="28" selection-end-column="28" />
+            <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
